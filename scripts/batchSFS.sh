@@ -1,3 +1,6 @@
+# Adding something to a script to test commit 
+
+
 #~ #!/bin/bash
 #~ 
 #~ # Chelo_files
